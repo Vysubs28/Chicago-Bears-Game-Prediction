@@ -1,4 +1,4 @@
-# Chicago Bears Prediction (Capstone Project)
+# Chicago Bears Prediction (Mini Capstone Project)
 
  **LinkedIn:** https://www.linkedin.com/in/vyaassubramanian/
 

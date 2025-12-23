@@ -35,7 +35,7 @@ The project demonstrates how historical NFL data can be leveraged to make inform
 - Experiment with additional ML models
 - Expand analysis to other NFL teams
 
-## 📂 Repository Contents
+## Repository Contents
 - `chicago_bears_prediction.ipynb` – Data analysis and model notebook  
 - `2017-2025_scores.csv` – Dataset used for training and evaluation
 - `Bears_Mini_Capstone.pptx.pdf` – Capstone presentation summarizing methodology, model evaluation, and 2025 season predictions

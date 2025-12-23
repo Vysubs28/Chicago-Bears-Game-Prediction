@@ -1,4 +1,4 @@
-# Chicago Bears Game Outcome Prediction (Capstone Project)
+# Chicago Bears Prediction (Capstone Project)
 
  **LinkedIn:** https://www.linkedin.com/in/vyaassubramanian/
 
